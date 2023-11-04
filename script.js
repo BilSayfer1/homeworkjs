@@ -17,6 +17,5 @@ let stock = 4200
 
 let totalBalance = 0 
 console.log( balance - car - food + invoice + stock ) 
-console.log(`Баланс пользователя =  ${balance} Траты = ${car} + ${food} Доходы = ${invoice} + ${stock} Итоги = ${totalBalance}  `) ;
 
 
